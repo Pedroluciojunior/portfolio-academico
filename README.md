@@ -12,6 +12,7 @@
 ## 📝 Apresentação Acadêmica
 
 Este repositório centraliza a trajetória acadêmica, projetos de pesquisa, artigos e produções científicas desenvolvidas ao longo da formação superior. O foco de estudo e investigação está na intersecção entre a Segurança da Informação, Infraestrutura de Redes e a Metodologia de Ensino de Computação.
+http://lattes.cnpq.br/2394388912757343
 
 ---
 
