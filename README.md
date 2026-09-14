@@ -1,18 +1,24 @@
 # 🎓 Portfólio Acadêmico — Pedro Lucio Cardoso Matos Junior
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Institution-UnB%20%7C%20Universidade%20de%20Bras%C3%ADlia-red" />
-  <img src="https://img.shields.io/badge/Degree-Licenciatura%20em%20Computa%C3%A7%C3%A3o-blue" />
-  <img src="https://img.shields.io/badge/Specialization-Information%20Security-green" />
-  <img src="https://img.shields.io/badge/Status-7%C2%BA%20Per%C3%ADodo-orange" />
+  <img src="https://img.shields.io/badge/Institution-UnB%20%7C%20Universidade%20de%20Bras%C3%ADlia-red?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Degree-Licenciatura%20em%20Computa%C3%A7%C3%A3o-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Specialization-Information%20Security-green?style=for-the-badge" />
+</p>
+
+<p align="center">
+  📍 Brasília, DF, Brasil &nbsp;&bull;&nbsp;
+  📧 <a href="mailto:plcmjr@gmail.com">plcmjr@gmail.com</a> &nbsp;&bull;&nbsp;
+  📞 (61) 99262-7009 / 98525-3616 &nbsp;&bull;&nbsp;
+  🔗 <a href="https://linkedin.com/in/pedroluciojunior" target="_blank">LinkedIn</a> &nbsp;&bull;&nbsp;
+  📜 <a href="https://lattes.cnpq.br/2394388912757343" target="_blank">Currículo Lattes</a>
 </p>
 
 ---
 
 ## 📝 Apresentação Acadêmica
 
-Este repositório centraliza a trajetória acadêmica, projetos de pesquisa, artigos e produções científicas desenvolvidas ao longo da formação superior. O foco de estudo e investigação está na intersecção entre a Segurança da Informação, Infraestrutura de Redes e a Metodologia de Ensino de Computação.
-http://lattes.cnpq.br/2394388912757343
+Este repositório centraliza a trajetória acadêmica, projetos de pesquisa, artigos e produções científicas desenvolvidas ao longo da formação superior. O foco de estudo e investigação está na intersecção entre a Segurança da Informação, Infraestrutura de Redes, Telecomunicações e a Metodologia de Ensino de Computação.
 
 ---
 
@@ -22,13 +28,13 @@ http://lattes.cnpq.br/2394388912757343
 **Faculdade Sumaré** | *Concluído em 2026*
 - **Foco de Investigação:** Controles de segurança, criptografia, auditoria de sistemas e governança baseada na norma ISO/IEC 27001.
 
-### 🔹 Licenciatura em Computação
-**Universidade de Brasília (UnB)** | *Em andamento (7º período)*
-- **Foco de Investigação:** Desenvolvimento de metodologias educacionais para o ensino de tecnologia, arquitetura de computadores e lógica de programação.
-
 ### 🔹 Tecnólogo em Redes de Computadores
 **Faculdade Sumaré** | *Concluído em 2025*
 - **Foco de Investigação:** Protocolos de comunicação, roteamento avançado, topologias LAN/WAN e segurança de perímetros de rede.
+
+### 🔹 Licenciatura em Computação
+**Universidade de Brasília (UnB)** | *Em andamento*
+- **Foco de Investigação:** Desenvolvimento de metodologias educacionais para o ensino de tecnologia, arquitetura de computadores e lógica de programação.
 
 ---
 
@@ -49,17 +55,17 @@ http://lattes.cnpq.br/2394388912757343
 ## 🛡️ Certificações Acadêmicas & Extensões
 
 Para além da grade curricular tradicional, o embasamento teórico-prático é complementado por certificações de mercado vigentes:
-- **Cisco CCNA** – Introduction to Networks
-- **ISO/IEC 27001** – Information Security Associate
-- **ITIL® Foundation** / **Scrum Foundation (SFPC)**
-- **Microsoft MD-100** – Windows 10
+- **Cisco CCNA** – *Introduction to Networks*
+- **ISO/IEC 27001** – *Information Security Associate*
+- **ITIL® Foundation** *(v3/v4)*
+- **Scrum Foundation Professional Certificate (SFPC)**
+- **Microsoft MD-100** – *Windows 10*
 
 ---
 
 # 📫 Contato Acadêmico
 
-📧 plcmjr@gmail.com  
-🔗 Plataforma Lattes / LinkedIn: [linkedin.com/in/pedroluciojunior](https://linkedin.com/in/pedroluciojunior)  
+📧 <a href="mailto:plcmjr@gmail.com">plcmjr@gmail.com</a> &nbsp;&bull;&nbsp; 🔗 <a href="https://linkedin.com/in/pedroluciojunior" target="_blank">LinkedIn</a> &nbsp;&bull;&nbsp; 📜 <a href="https://lattes.cnpq.br/2394388912757343" target="_blank">Currículo Lattes</a>
 
 ---
 <p align="center"><i>Toda vez que choveu, parou.</i></p>
